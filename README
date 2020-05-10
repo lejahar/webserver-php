@@ -1,0 +1,1 @@
+The Docker setup for Nginx web server using PHP7-FPM to display phpInfo() homepage.
